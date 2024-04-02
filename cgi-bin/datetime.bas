@@ -1,3 +1,4 @@
+rem #!/usr/bin/bwbasic 
 dim t$ 
 dim h!
 dim n!
