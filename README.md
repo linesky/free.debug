@@ -1,2 +1,4 @@
-# Bwbasic
-Bwbasic server cgi using python server
+# free.debug
+
+
+a debug id no extra program
